@@ -1,7 +1,6 @@
 # Meusic
 
 How to use?
-
 1.server.js를 실행한다. 
 2. cd fontend 
 3. npm run start
